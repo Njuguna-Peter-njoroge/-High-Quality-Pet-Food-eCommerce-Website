@@ -14,7 +14,7 @@ This template boasts a complete set of features essential for an online pet food
     * Detailed product pages with multiple image views, descriptions, pricing, and availability.
     * Options for product variations (e.g., size, flavor).
     * Customer reviews and ratings to build trust and inform purchasing decisions.
-* **Intuitive Shopping Cart:**
+* **Intuitive Shopping Cart:**.
     * Easy addition and removal of items.
     * Display of item quantities, prices, and subtotal.
     * Options for updating quantities and applying discounts/coupon codes.
